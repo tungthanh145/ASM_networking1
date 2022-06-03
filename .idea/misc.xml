@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/app1.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/general_img_background.xml" value="0.1671875" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/person.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/shop.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/drawable/wave.xml" value="0.1" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_category.xml" value="0.1431159420289855" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_register.xml" value="0.13697916666666668" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_screen.xml" value="0.16077898550724637" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidNetworking/ASM_Networking/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
